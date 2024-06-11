@@ -1,0 +1,6 @@
+{
+  "token": "your bot token",
+  "clientId": "your client id",
+  "guildId": "your server id",
+  "startChannel": "your channel id"
+}
